@@ -1,10 +1,13 @@
+<h1 align="center">Abdulbasit Zahir (Hamza X)</h1>
+
 <p align="center">
 <img src="./hamza.jpg" alt="Hamza X" style="height: 300px; width:300px;"/>
 </p>
 
-<p align="center">
-Software engineer and AI developer. Currently NLP specialist at <a href="https://ovanya.com/">Ovanya</a>.
-</p>
+  <p align="center">
+  Software engineer and AI developer. Currently NLP specialist at <a href="https://ovanya.com/">Ovanya</a>.
+  </p>
+
 
 ## Projects
 
