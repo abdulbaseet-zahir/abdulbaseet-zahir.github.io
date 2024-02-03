@@ -16,14 +16,6 @@ Software engineer and AI developer. Currently NLP specialist at <a href="https:/
 - E-commerce recomendation system
 - Delivery dispatching system
 
-## Blogs
-
-- null
-
-## Videos
-
-- nall
-
 ### Contacts
 
 - [Email](mailto:abdulbasit@outloo.com)
