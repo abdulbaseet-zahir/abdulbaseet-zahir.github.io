@@ -16,10 +16,16 @@ Software engineer and AI developer. Currently NLP specialist at <a href="https:/
 - E-commerce recomendation system
 - Delivery dispatching system
 
-### Contacts
+## Blogs
+<ul dir="ltr">
+  <li><a href="https://medium.com/@hamza_x98/پۆلێنکردنی-دەق-0d59fcebaa06">پۆلێنکردنی دەق</a></li>
+</ul>
 
-- [Email](mailto:abdulbasit@outloo.com)
-- [LinkedIn](https://www.linkedin.com/in/abdulbasit-zahir/)
+### Profiles
 - [X](https://twitter.com/Hamza_X98)
+- [LinkedIn](https://www.linkedin.com/in/abdulbasit-zahir/)
+- [Github](https://github.com/abdulbaseet-zahir)
 
-
+### Contacts
+- Email: abdulbasit@outloo.com
+- WhatsApp: +9647507827296
