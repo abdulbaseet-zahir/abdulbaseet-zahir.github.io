@@ -30,5 +30,8 @@
 - [Github](https://github.com/abdulbaseet-zahir)
 
 ### Contacts
-- Email: abdulbasit@outloo.com
+- Email: abdulbasit.zahir@outlook.com
 - WhatsApp: +9647507827296
+
+  
+<h1 align="center"></h1>
