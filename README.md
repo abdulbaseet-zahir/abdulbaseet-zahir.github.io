@@ -5,7 +5,7 @@
 </p>
 
   <p align="center">
-  Software engineer and AI developer. Currently NLP specialist at <a href="https://ovanya.com/">Ovanya</a>.
+  Software engineer and AI developer. Currently Machine Learning Engineer at <a href="https://ovanya.com/">Ovanya</a>.
   </p>
 
 
