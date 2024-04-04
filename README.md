@@ -26,7 +26,6 @@
 
 ### Profiles
 - [X](https://twitter.com/Hamza_X98)
-- [LinkedIn](https://www.linkedin.com/in/abdulbasit-zahir/)
 - [Github](https://github.com/abdulbaseet-zahir)
 
 ### Contacts
