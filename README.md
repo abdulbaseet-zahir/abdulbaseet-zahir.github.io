@@ -12,11 +12,11 @@
 ## Projects
 
 - Kurdish Spell Checker
-- Kurdish deep grammer checker
-- Kurdish speach recognation
+- Kurdish deep grammar checker
+- Kurdish speech recognition
 - Kurdish sentiment classification
-- News recomendation system
-- E-commerce recomendation system
+- News recommendation system
+- E-commerce recommendation system
 - Delivery dispatching system
 
 ## Blogs
